@@ -40,12 +40,6 @@ I enjoy learning by creating real projects, exploring how different parts of sof
 
 ---
 
-## Selected Work
-
-Projects I'm building and developing will be featured here as they take shape.
-
----
-
 <div align="center">
 
 **Build · Learn · Understand · Create**
