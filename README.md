@@ -4,6 +4,13 @@
 
 **Creating thoughtful software, learning by building, and understanding systems end to end.**
 
+<br>
+
+<a href="https://www.linkedin.com/in/setayesh-samani">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
 </div>
 
 ---
@@ -45,3 +52,4 @@ I enjoy learning by creating real projects, exploring how different parts of sof
 **Build · Learn · Understand · Create**
 
 </div>
+
