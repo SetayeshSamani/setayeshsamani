@@ -33,17 +33,17 @@ I enjoy learning by creating real projects, exploring how different parts of sof
 
 ## Tech & Tools
 
-### Web
-
-![Web Skills](https://skillicons.dev/icons?i=html,css,sass,js)
-
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=cpp,cs,java,py)
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,go,php,js,ts)
 
-### Tools
+### Web & Frameworks
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+![Web Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,wordpress,nodejs)
+
+### Data, DevOps & Tools
+
+![Tools](https://skillicons.dev/icons?i=postgres,docker,linux,git,github,vscode)
 
 ---
 
